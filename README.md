@@ -2,4 +2,4 @@
 
 - Se você deseja adicionar algum ítem, faça um pull request.
 
-✔ **[Acesse aqui o arquivo com a lista dos links](https://github.com/DanielAccorsi/CanaisOficiais/blob/main/canais.md)**
+✔ **[ACESSE AQUI O ARQUIVO COM A LISTA DOS LINKS](https://github.com/DanielAccorsi/CanaisOficiais/blob/main/canais.md)**
